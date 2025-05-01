@@ -13,7 +13,7 @@ To write a C program to find number of years based on principle,rate & simple in
 
 ## Program:
 ```
-/*
+
 Program to find number of years based on principle,rate & simple interest.
 
 #include <stdio.h> 
@@ -27,7 +27,7 @@ ci=(p)*(pow((1+ r/100),n));
 printf("Simple Interest = %0.2f\nCompound Interest = %0.2f", si,ci);
 return 0;
 } 
-*/
+
 ```
 
 ## Output:
