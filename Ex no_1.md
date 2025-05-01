@@ -4,23 +4,32 @@
 To write a program to initialize the value as 5.8 & display the same.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Start
+2. Declare a variable value of type int
+3. Initialize value with value 5.8.
+4. Print the value of value using printf.
+5. End .   
 
 ## Program:
 ```
 /*
 Program to initialize the value as 5.8 & display the same.
-Developed by: 
-RegisterNumber:  
+Developed by:Nandhini S 
+RegisterNumber:212222220028
+
+#include<stdio.h> 
+int main()
+{
+float a =5.800000; 
+printf ("%.1f",a); 
+return 0;
+} 
 */
 ```
 
 ## Output:
 
+![438152694-e938b4cc-4cda-4887-a926-f8d6b2963dc6](https://github.com/user-attachments/assets/a56fb6b0-da17-4375-8f48-0491e6916bfa)
 
 
 ## Result:
